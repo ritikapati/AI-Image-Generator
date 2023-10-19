@@ -28,7 +28,7 @@ To use this application, you will need to set up your OpenAI API credentials. Fo
 API_KEY ="ENTER_YOUR_OPEN_AI_API_KEY_HERE"
 
 
-In the project directory, you can run:
+```In the project directory, you can run:
 
 ### `npm start`
 
